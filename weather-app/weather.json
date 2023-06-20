@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": -96.8021,
+        "lat": 32.882
+    },
+    "weather": [
+        {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 294.91,
+        "feels_like": 295.36,
+        "temp_min": 293.33,
+        "temp_max": 296.54,
+        "pressure": 1011,
+        "humidity": 85
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 5.14,
+        "deg": 70,
+        "gust": 8.23
+    },
+    "clouds": {
+        "all": 40
+    },
+    "dt": 1686571903,
+    "sys": {
+        "type": 2,
+        "id": 2040661,
+        "country": "US",
+        "sunrise": 1686568707,
+        "sunset": 1686620148
+    },
+    "timezone": -18000,
+    "id": 4738606,
+    "name": "University Park",
+    "cod": 200
+}
